@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shirley Angos || @shirls326 and I am a CSE Major at Lehigh University
-- ✨ I'm currently taking courses in Java and learning Web Development
+- ✨ I'm a motivated student interested in Java and Web development
 - 📫 How to reach me:
      sea325@lehigh.edu
      Shirley Angos on Linkedin
