@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Shirley Angos || @shirls326 and I am a CSE Major at Lehigh University
-- ✨ I'm a student interested in Frontend Development and UX/UI design along with the importance of education in Computer Science
-- 👩🏽‍💻 I am currently a Teaching Assistant for Lehigh University's CSE017 (Programming and Data Structures) and CSE264 (Web Systems Programming). Additionally, I am a SWE Frontend Dev for Our Florida
-- 🎀 Starting June 2025, I will be a full-time Software Engineer I at Vertafore
+### Hi! I’m Shirley Angos ☻
+- ✨ I'm a current Software Engineer I @ Vertafore
+- 🍊 I am additionally a SWE Frontend Dev Intern @ Our Florida
+- 🎀 I recently graduated from Lehigh University with a Bachelor's in Computer Science and Engineering
+- My main focuses is on interested in Frontend Development and UX/UI design along with the importance of education in Computer Science
 - 📫 How to reach me:
-     sea325@lehigh.edu
      shirleyangos@gmail.com
      Shirley Angos on Linkedin
+     shirley@alum.lehigh.edu
 
 <!---
 shirls326/shirls326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
