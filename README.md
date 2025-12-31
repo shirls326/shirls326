@@ -1,8 +1,7 @@
 ### Hi! I’m Shirley Angos ☻
 - ✨ I'm a current Software Engineer I @ Vertafore
-- 🍊 I am additionally a SWE Frontend Dev Intern @ Our Florida
 - 🎀 I recently graduated from Lehigh University with a Bachelor's in Computer Science and Engineering
-- My main focuses is on interested in Frontend Development and UX/UI design along with the importance of education in Computer Science
+- My main focuses is in Frontend Development and UX/UI design along with the importance of education in Computer Science
 - 📫 How to reach me:
      shirleyangos@gmail.com
      Shirley Angos on Linkedin
