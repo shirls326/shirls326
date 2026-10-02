@@ -1,5 +1,5 @@
 ### Hi! I’m Shirley Angos ☻
-- ✨ I'm currently Software Engineer @ Vertafore
+- ✨ I'm currently a Software Engineer @ Vertafore
 - 🎀 I graduated from Lehigh University with a Bachelor's in Computer Science and Engineering
 - 💻 My main focuses are Full-Stack Development, Web Development, and UI/UX design
 - 📫 How to reach me:
